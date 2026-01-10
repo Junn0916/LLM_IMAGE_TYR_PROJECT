@@ -1,0 +1,47 @@
+{
+  "messages": [
+    {
+      "content": "你知道百米这个电影吗",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": "9e9a4d17-e201-4f83-a347-7ccf98107282"
+    },
+    {
+      "content": "我目前无法直接访问电影数据库或网络来获取最新信息。你提到的《百米》这个电影，我无法确认具体是哪一部作品，因为电影片名可能：\n\n1. 有同名的不同电影\n2. 可能是新的电影还未被广泛收录\n3. 可能是某个地区或语言的特定译名\n\n你可以提供更多信息吗？比如：\n- 导演或主要演员\n- 电影的出品国家/年份\n- 大致的情节内容\n\n这样我可以更好地理解你指的是哪一部电影。",
+      "additional_kwargs": {
+        "refusal": null
+      },
+      "response_metadata": {
+        "token_usage": {
+          "completion_tokens": 108,
+          "prompt_tokens": 1896,
+          "total_tokens": 2004,
+          "completion_tokens_details": null,
+          "prompt_tokens_details": null,
+          "reasoning_tokens": 0
+        },
+        "model_provider": "openai",
+        "model_name": "deepseek-v3.2",
+        "system_fingerprint": null,
+        "id": "8da1c6c139e04065b69286911a3a1454",
+        "finish_reason": "stop",
+        "logprobs": null
+      },
+      "type": "ai",
+      "name": null,
+      "id": "lc_run--019ba6f8-05bd-7c91-9232-0275f9ceee1c-0",
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": {
+        "input_tokens": 1896,
+        "output_tokens": 108,
+        "total_tokens": 2004,
+        "input_token_details": {},
+        "output_token_details": {}
+      }
+    }
+  ],
+  "skills_metadata": []
+}
